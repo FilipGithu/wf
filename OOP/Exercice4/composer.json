@@ -1,0 +1,14 @@
+{
+    "name": "etudiant/exercice4",
+    "type": "project",
+    "require": {
+        "symfony/security": "^4.2"
+    },
+    "authors": [
+        {
+            "name": "filip",
+            "email": "filipgaman@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
